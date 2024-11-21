@@ -5,7 +5,7 @@ Perform CRUD operations (Create, Read, Update, Delete) on fee records.
 Manage fees by academic year and class/standard.
 # Installation
 Clone the Repository
-git clone https://github.com/gaurimandal/fee-manager-application.git  
+git clone https://github.com/gaurimandal/SpringBoot.git 
 
 Import the Project
 Open STS and navigate to File > Import....
